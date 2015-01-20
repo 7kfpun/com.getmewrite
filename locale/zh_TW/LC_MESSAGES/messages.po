@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-01-24 06:54+0000\n"
+"POT-Creation-Date: 2015-01-21 00:13+0800\n"
 "PO-Revision-Date: 2013-10-21 03:46+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_TW <LL@li.org>\n"
@@ -240,13 +240,13 @@ msgstr ""
 "5000 字以下文稿每字 1.0 ~ 1.1 港幣"
 
 #: templates/index.html:51
+#, fuzzy
 msgid ""
 "<strong>If you have a project in mind, simply follow the steps "
 "below:</strong><br /><br />\n"
-"1. Email me at <a "
-"href=\"mailto:mona@getmewrite.com\">mona@getmewrite.com</a> or whatsapp "
-"me at <a href=\"tel:+85292765601\">+852 9276 5601</a> with your project "
-"details/ needs.<br /><br />\n"
+"1. Email me at <a href=\"mailto:m@getmewrite.com\">m@getmewrite.com</a> "
+"or whatsapp me at <a href=\"tel:+85292765601\">+852 9276 5601</a> with "
+"your project details/ needs.<br /><br />\n"
 "2. We work out together the exact cost and deadline of the project.<br "
 "/><br />\n"
 "3. We sign your contract or my quote Agreement.<br /><br />\n"
@@ -258,8 +258,8 @@ msgid ""
 msgstr ""
 "如果你有需要幫忙的寫作項目，請參照以下做法：<br /><br />\n"
 "1. 把閣下的項目資料/需要電郵至 <a "
-"href=\"mailto:mona@getmewrite.com\">mona@getmewrite.com</a>，或whatsapp至 <a"
-" href=\"tel:+85292765601\">+852 9276 5601</a>。<br /><br />\n"
+"href=\"mailto:m@getmewrite.com\">m@getmewrite.com</a>，或whatsapp至 <a "
+"href=\"tel:+85292765601\">+852 9276 5601</a>。<br /><br />\n"
 "2. 我們一同制定項目實際收費和工作限期<br /><br />\n"
 "3. 簽署合作同意書<br /><br />\n"
 "4. 我在限期前完成工作，並因應閣下需求，提供一輪免費修訂服務。<br /><br />\n"
@@ -270,95 +270,95 @@ msgstr ""
 msgid "Get Me Write"
 msgstr ""
 
-#: templates/index.html:121
+#: templates/index.html:120
 msgid "home"
 msgstr "首頁"
 
-#: templates/index.html:122 templates/index.html:151
+#: templates/index.html:121 templates/index.html:150
 msgid "about"
 msgstr "關於我"
 
-#: templates/index.html:123
+#: templates/index.html:122
 msgid "works"
 msgstr "工作"
 
-#: templates/index.html:125 templates/index.html:159
+#: templates/index.html:124 templates/index.html:158
 msgid "portfolio"
 msgstr "履歷"
 
-#: templates/index.html:133 templates/index.html:215
+#: templates/index.html:132 templates/index.html:214
 msgid "clients"
 msgstr "過往客戶"
 
-#: templates/index.html:134 templates/index.html:198
+#: templates/index.html:133 templates/index.html:197
 msgid "service"
 msgstr "服務"
 
-#: templates/index.html:134 templates/index.html:206
+#: templates/index.html:133 templates/index.html:205
 msgid "rate"
 msgstr "收費"
 
-#: templates/index.html:137
+#: templates/index.html:136
 msgid "contacts"
 msgstr "聯絡方法"
 
-#: templates/index.html:145
+#: templates/index.html:144
 msgid "welcome"
 msgstr ""
 
-#: templates/index.html:165
+#: templates/index.html:164
 msgid "mail me"
 msgstr "聯絡我"
 
-#: templates/index.html:170
+#: templates/index.html:169
 msgid "This is not a valid name."
 msgstr ""
 
-#: templates/index.html:173
+#: templates/index.html:172
 msgid "This is not a valid email address."
 msgstr ""
 
-#: templates/index.html:177
+#: templates/index.html:176
 msgid "This is not a valid subject."
 msgstr ""
 
-#: templates/index.html:179
+#: templates/index.html:178
 msgid "Body"
 msgstr ""
 
-#: templates/index.html:180
+#: templates/index.html:179
 msgid "The message is too short."
 msgstr ""
 
-#: templates/index.html:181
+#: templates/index.html:180
 msgid "reset"
 msgstr "重置"
 
-#: templates/index.html:181
+#: templates/index.html:180
 msgid "submit"
 msgstr "發送"
 
-#: templates/index.html:190
+#: templates/index.html:189
 msgid "contact or hire"
 msgstr "聯絡方法"
 
-#: templates/index.html:220
+#: templates/index.html:219
 msgid "art writing"
 msgstr "藝術書寫"
 
-#: templates/index.html:221
+#: templates/index.html:220
 msgid "translation"
 msgstr "翻譯"
 
-#: templates/index.html:222
+#: templates/index.html:221
 msgid "speeches"
 msgstr "講詞"
 
-#: templates/index.html:223
+#: templates/index.html:222
 msgid "copywriting"
 msgstr "商業/市場推廣文稿"
 
-#: templates/index.html:255
+#: templates/index.html:254
 msgid "Please visit"
 msgstr ""
 

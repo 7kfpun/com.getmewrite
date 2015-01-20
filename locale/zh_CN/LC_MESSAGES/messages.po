@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2014-01-24 06:54+0000\n"
+"POT-Creation-Date: 2015-01-21 00:13+0800\n"
 "PO-Revision-Date: 2013-10-21 03:46+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: zh_CN <LL@li.org>\n"
@@ -227,13 +227,13 @@ msgstr ""
 "/>5000字以下文稿每字 1.0 - 1.1 港币"
 
 #: templates/index.html:51
+#, fuzzy
 msgid ""
 "<strong>If you have a project in mind, simply follow the steps "
 "below:</strong><br /><br />\n"
-"1. Email me at <a "
-"href=\"mailto:mona@getmewrite.com\">mona@getmewrite.com</a> or whatsapp "
-"me at <a href=\"tel:+85292765601\">+852 9276 5601</a> with your project "
-"details/ needs.<br /><br />\n"
+"1. Email me at <a href=\"mailto:m@getmewrite.com\">m@getmewrite.com</a> "
+"or whatsapp me at <a href=\"tel:+85292765601\">+852 9276 5601</a> with "
+"your project details/ needs.<br /><br />\n"
 "2. We work out together the exact cost and deadline of the project.<br "
 "/><br />\n"
 "3. We sign your contract or my quote Agreement.<br /><br />\n"
@@ -245,8 +245,8 @@ msgid ""
 msgstr ""
 "如果你有需要帮忙的写作项目，请参照以下做法：<br /><br />\n"
 "1. 把阁下的项目资料/需要电邮至 <a "
-"\"href=\"mailto:mona@getmewrite.com\">mona@getmewrite.com</a>，或whatsapp至 "
-"<a href=\"tel:+85292765601\">+852 9276 5601</a>。<br /><br />\n"
+"\"href=\"mailto:m@getmewrite.com\">m@getmewrite.com</a>，或whatsapp至 <a "
+"href=\"tel:+85292765601\">+852 9276 5601</a>。<br /><br />\n"
 "2. 我们一同制定项目实际收费和工作限期<br /><br />\n"
 "3. 签署合作同意书<br /><br />\n"
 "4. 我在限期前完成工作，并因应阁下需求，提供一轮免费修订服务。<br /><br />\n"
@@ -257,95 +257,95 @@ msgstr ""
 msgid "Get Me Write"
 msgstr ""
 
-#: templates/index.html:121
+#: templates/index.html:120
 msgid "home"
 msgstr "主页"
 
-#: templates/index.html:122 templates/index.html:151
+#: templates/index.html:121 templates/index.html:150
 msgid "about"
 msgstr "关于我"
 
-#: templates/index.html:123
+#: templates/index.html:122
 msgid "works"
 msgstr "工作"
 
-#: templates/index.html:125 templates/index.html:159
+#: templates/index.html:124 templates/index.html:158
 msgid "portfolio"
 msgstr "履历"
 
-#: templates/index.html:133 templates/index.html:215
+#: templates/index.html:132 templates/index.html:214
 msgid "clients"
 msgstr "过往客户"
 
-#: templates/index.html:134 templates/index.html:198
+#: templates/index.html:133 templates/index.html:197
 msgid "service"
 msgstr "服务"
 
-#: templates/index.html:134 templates/index.html:206
+#: templates/index.html:133 templates/index.html:205
 msgid "rate"
 msgstr "收费"
 
-#: templates/index.html:137
+#: templates/index.html:136
 msgid "contacts"
 msgstr "联络方法"
 
-#: templates/index.html:145
+#: templates/index.html:144
 msgid "welcome"
 msgstr ""
 
-#: templates/index.html:165
+#: templates/index.html:164
 msgid "mail me"
 msgstr "联络我"
 
-#: templates/index.html:170
+#: templates/index.html:169
 msgid "This is not a valid name."
 msgstr ""
 
-#: templates/index.html:173
+#: templates/index.html:172
 msgid "This is not a valid email address."
 msgstr ""
 
-#: templates/index.html:177
+#: templates/index.html:176
 msgid "This is not a valid subject."
 msgstr ""
 
-#: templates/index.html:179
+#: templates/index.html:178
 msgid "Body"
 msgstr ""
 
-#: templates/index.html:180
+#: templates/index.html:179
 msgid "The message is too short."
 msgstr ""
 
-#: templates/index.html:181
+#: templates/index.html:180
 msgid "reset"
 msgstr "重置"
 
-#: templates/index.html:181
+#: templates/index.html:180
 msgid "submit"
 msgstr "发送"
 
-#: templates/index.html:190
+#: templates/index.html:189
 msgid "contact or hire"
 msgstr "联络方法"
 
-#: templates/index.html:220
+#: templates/index.html:219
 msgid "art writing"
 msgstr "艺术书写"
 
-#: templates/index.html:221
+#: templates/index.html:220
 msgid "translation"
 msgstr "翻译"
 
-#: templates/index.html:222
+#: templates/index.html:221
 msgid "speeches"
 msgstr "讲词"
 
-#: templates/index.html:223
+#: templates/index.html:222
 msgid "copywriting"
 msgstr "商业/市场推广文稿"
 
-#: templates/index.html:255
+#: templates/index.html:254
 msgid "Please visit"
 msgstr ""
 
